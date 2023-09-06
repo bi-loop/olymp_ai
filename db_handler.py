@@ -27,4 +27,4 @@ def change(user_id, **user_data):
     with open('database.csv', 'w', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=['user_id', 'mail', 'password', 'verified'])
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(rows) #hi
