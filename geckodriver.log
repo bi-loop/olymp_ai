@@ -1,0 +1,198 @@
+Invalid port. Exiting...
+1694817507918	geckodriver	INFO	Listening on 127.0.0.1:57469
+1694817510988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofileJPjd2V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694817511367	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694817511519	Marionette	INFO	Listening on port 57478
+Read port: 57478
+WebDriver BiDi listening on ws://127.0.0.1:57470
+1694817511672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57470/devtools/browser/41d4dedf-197a-4879-9369-45363bd4666f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://olymptrade.com."
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:38525
+UET/this.combine@https://bat.bing.com/bat.js:1:38604
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:39634
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:39561
+
+1694817535764	Marionette	INFO	Stopped listening on port 57478
+Dynamically enable window occlusion 1
+1694817552680	geckodriver	INFO	Listening on 127.0.0.1:57587
+1694817555745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofilem7vlol"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694817556135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694817556306	Marionette	INFO	Listening on port 57595
+WebDriver BiDi listening on ws://127.0.0.1:57588
+Read port: 57595
+1694817556737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57588/devtools/browser/5984bbf2-1955-4158-87bd-ee36562865c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://olymptrade.com."
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cfcdn.olymptrade.com/s5/commons-d74f2906130b2b3e5422.js, line 2: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://olymptrade.com."
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:65377
+
+1694817585937	Marionette	INFO	Stopped listening on port 57595
+Dynamically enable window occlusion 1
+1694817633475	geckodriver	INFO	Listening on 127.0.0.1:57782
+1694817636567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofilePC4ozw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694817637010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694817637317	Marionette	INFO	Listening on port 57790
+WebDriver BiDi listening on ws://127.0.0.1:57783
+Read port: 57790
+1694817637521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57783/devtools/browser/e3105843-c715-4f4b-9728-b19652f7828f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694817681557	Marionette	INFO	Stopped listening on port 57790
+Dynamically enable window occlusion 1
+1694817989303	geckodriver	INFO	Listening on 127.0.0.1:57891
+1694817992392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57892" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofilek8gFjA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694817992812	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694817992970	Marionette	INFO	Listening on port 57899
+WebDriver BiDi listening on ws://127.0.0.1:57892
+Read port: 57899
+1694817993694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57892/devtools/browser/db1a605d-3749-44e9-badb-bd0740f6df41
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://geonode.com/_next/static/chunks/main-e45347276153916b.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c, line 174: Script terminated by timeout at:
+Oa@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:174:437
+cp@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:393:350
+Yv@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:483:689
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:625:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:577:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZDN3X5YQDJ&l=dataLayer&cx=c:576:420
+
+1694819010716	Marionette	INFO	Stopped listening on port 57899
+Dynamically enable window occlusion 1
+ certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58242/devtools/browser/dffa54b2-05d1-44c4-95ec-fc7bc0465ef7
+1694818859881	Marionette	INFO	Stopped listening on port 58249
+Dynamically enable window occlusion 1
+1694819008917	geckodriver	INFO	Listening on 127.0.0.1:57758
+1694819011973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofileiAlLn9"
+1694819022458	geckodriver	INFO	Listening on 127.0.0.1:57778
+1694819025525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofile8ekO4P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694819026518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694819027671	Marionette	INFO	Listening on port 57794
+WebDriver BiDi listening on ws://127.0.0.1:57779
+Read port: 57794
+1694819028200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57777/devtools/browser/3f3b3e02-139d-4aec-9fa9-b46d2096a5b2
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b6KMqTAYqBIA24ZWjqYq8V8pGhE_E2wERo_hclhyfAY.js line 2 > eval line 2292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b6KMqTAYqBIA24ZWjqYq8V8pGhE_E2wERo_hclhyfAY.js line 2 > eval line 1407 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b6KMqTAYqBIA24ZWjqYq8V8pGhE_E2wERo_hclhyfAY.js line 2 > eval line 3272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D38i8ocviMyns63bFlxz04547CGgVcdJsS8VZS_5djY.js line 2 > eval line 5099 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS, line 412: Script terminated by timeout at:
+ew.prototype.flush/<@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:412:258
+ew.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:412:259
+ew.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:410:207
+Yv@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:407:712
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:567:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:519:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:518:420
+
+1694820111663	Marionette	INFO	Stopped listening on port 57794
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:153:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:451:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-YH7KDT6THS:451:111
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694820435393	Marionette	INFO	Stopped listening on port 57966
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+9
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Hj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Fj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Hj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+nd/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.croxyproxy.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694820441964	Marionette	INFO	Stopped listening on port 58095
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":467,"stack":""}] Barrier: profile-before-change
+1694848467007	geckodriver	INFO	Listening on 127.0.0.1:49909
+1694848470088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WELCOME\\AppData\\Local\\Temp\\rust_mozprofilebmhRa3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694848471002	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694848471167	Marionette	INFO	Listening on port 49922
+Read port: 49922
+WebDriver BiDi listening on ws://127.0.0.1:49910
+1694848471522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49910/devtools/browser/59f54806-5087-468c-abbe-78ef825bf0b9
